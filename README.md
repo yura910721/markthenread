@@ -5,5 +5,5 @@ Android 'save and read later' kind of Android reading application, based on boil
 
 *Important note 
 
-- uses boilerpipe : https://github.com/kohlschutter/boilerpipe 
+- uses boilerpipe library: https://github.com/kohlschutter/boilerpipe 
 
