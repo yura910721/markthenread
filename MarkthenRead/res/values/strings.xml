@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MarkthenRead</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_man_add">ManAddActivity</string>
+    <string name="input_url_hint">Input URL...</string>
+    <string name="go_button">go</string>
+    <string name="button_go">Go</string>
+    <string name="man_add_menu">Add Item Manually</string>
+    <string name="test_string">Test String</string>
+    <string name="title_activity_viewer">Viewer</string>
+    <string name="viewerbody"></string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="G:/Android/workspace/MarkthenRead/libs/boilerpipe-1.2.0-android.jar"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="G:/Android/workspace/MarkthenRead/libs/nekohtml-1.9.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="G:/Android/workspace/MarkthenRead/libs/xerces-2.9.1.jar"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
